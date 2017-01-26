@@ -2605,6 +2605,14 @@
         "message": "Tags Per Page"
     },
 
+    "filteRedditSpoilerfilterTitle": {
+        "message": "Spoiler Filter"
+    },
+
+    "filteRedditSpoilerfilterDesc": {
+        "message": "Filters all links labelled spoiler."
+    },
+
     "filteRedditNSFWfilterTitle": {
         "message": "NSFW Filter"
     },
